@@ -1,0 +1,36 @@
+p{
+	font-family: Alegarya Sans;
+	font-size: 20px;
+}
+h1{
+	font-family: 'Epilogue', sans-serif;
+	font-size: 64px;
+	font-style: bold;
+}
+h2{
+	font-family: 'Epilogue', sans-serif;
+	background-color: #DBD06C;
+	font-size: 48px;
+}
+h3{
+	font-family: 'Electrolize', sans-serif; 
+	font-size: 48px;
+}
+h4{
+	font-family: 'Epilogue', sans-serif; 
+	font-size: 32px;
+}
+hr{
+	width: 100px
+	color: white;
+}
+video{
+  position: center;
+  right: 0;
+  bottom: 0;
+  min-width: 25%;
+  min-height: 25%;
+}
+body{
+	background-color: #95CBEA;
+}

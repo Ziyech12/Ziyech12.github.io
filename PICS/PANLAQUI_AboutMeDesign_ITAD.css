@@ -1,0 +1,36 @@
+hr {
+			width: 75%;
+			height: 2px;
+			background-color: white;
+		}
+
+        body{
+            text-align: center;
+            background-color: #101820FF;
+        }
+
+        h1{
+            text-align:center;
+            font-family:oblique, sans-serif, cursive;
+            background-color:gold;
+            color:black;
+            font-size:2em;
+            word-spacing:30px;
+            letter-spacing: 1.5px;
+            font-weight: 100px;
+        }
+
+        h2{
+            font-family:Verdana;
+            color:#F2AA4CFF;
+        }
+        h3{
+            background-color:gold;
+            font-size:2em;
+        }
+        p{
+            text-align: justify;
+            font-family:oblique;
+            font-size:1.5em;
+            color:#F2AA4CFF;
+        }
